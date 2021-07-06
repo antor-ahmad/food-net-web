@@ -1,0 +1,122 @@
+.orange-color{
+    color: orange;
+}
+h1{
+    font-size: 60px;
+    color: rgb(119, 119, 119);
+    line-height: 15px;
+    
+}
+h2{
+    color: rgb(119, 119, 119);
+    font-size: 40px;
+}
+a{
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient(orange, tomato);
+    padding: 15px 25px;
+    font-weight: 1000;
+    font-size: 120%;
+    border-radius: 40px;
+    
+}
+#div1-border{
+    border-top: 40px solid white;
+}
+
+body{
+
+    font-family: 'Roboto', sans-serif;
+}
+#sec1-para{
+    text-align: justify;
+    color: rgb(63, 63, 63);
+    font-size: 110%;
+    padding-right: 200px;
+    border-bottom: 25px solid white;
+}
+#aboutme-para{
+    
+    color: rgb(63, 63, 63);
+    font-size: 110%;
+    margin-bottom: 100px;
+}
+.display{
+    display: flex;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.half-width{
+    width: 50%;
+}
+#sec1-img{
+    width: 75%;
+    padding-left: 10%;
+
+}
+#aboutme-img{
+    width: 50%;
+    height: 85%;
+    padding-left: 20%;
+    padding-top: 45px;
+    padding-bottom: 90px;
+}
+#sec2-bg{
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+    background-size: 100% 70%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+section{
+    border-bottom: 100px solid white;
+}
+#MyRecipies{
+    text-align: center; 
+ 
+    padding-left: 25%;
+    padding-right: 25%;
+}
+#MyRecipies-para{
+    color: rgb(63, 63, 63);
+    font-size: 110%;
+}
+.FoodImage{
+    width: 100%;
+    height: 60%;
+}
+.RecipiesHeading{
+    color: black;
+    line-height: 10px;
+}
+.RecipiesBox{
+    border: 20px solid white;
+    border-radius: 30px;
+    box-shadow: 1px 1px 30px rgb(206, 206, 206);
+    padding: px;
+    margin-right: 40px;
+    margin-left: 40px;
+}
+.subcriptionInfo{
+    margin-left: 10%;
+    margin-right: 5%;
+    padding-left: 20px;
+}
+#subcriptionInfoBorder{
+    border: 10px solid white;
+    box-shadow: 1px 1px 30px rgb(206, 206, 206);
+    border-radius: 15px;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+footer{
+    text-align: center;
+    background-color: rgb(0, 14, 12);
+    height: 180px;
+    color:gray;
+    padding-top: 20px;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 20px;
+}
